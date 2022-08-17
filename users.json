@@ -1,0 +1,15 @@
+[
+  {
+    "id":1,
+    "name":"Alper",
+    "email":"alper.baydeniz@gmail.com",
+    "detay_bilgi":"Eron Software Çalışanı"
+  },
+  {
+    "id":2,
+    "name":"Birkan",
+    "email":"birkan.varan@gmail.com",
+    "detay_bilgi":"Eron Software Çalışanı"
+  }
+  
+]
